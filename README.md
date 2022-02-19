@@ -1,6 +1,6 @@
 <!-- Name Card -->
 
-![Reza Ageng's card name](https://cardivo.vercel.app/api?name=Reza%20Ageng&description=Hi,%20i%27m%20a%20junior%20developer%20nice%20to%20meet%20you&image=https://avatars.githubusercontent.com/u/56060241?v=4&backgroundColor=%23161b22&fontColor=%23c9d1d9&pattern=topography&colorPattern=%2326292e&github=rezaageng&twitter=rezaageng_&instagram=rezaageng_&iconColor=%23c9d1d9)
+![Reza Ageng's card name](<https://cardivo.vercel.app/api?name=Reza%20Ageng&description=generateCryogenicElement(formElement.birdShape)%20discharge()&image=https://avatars.githubusercontent.com/u/56060241?v=4&backgroundColor=%23161b22&fontColor=%23c9d1d9&pattern=topography&colorPattern=%2326292e&github=rezaageng&twitter=rezaageng_&instagram=rezaageng_&iconColor=%23c9d1d9>)
 
 ---
 
