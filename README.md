@@ -25,6 +25,6 @@
 <details>
   <summary>Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=rezaageng&hide_border=true&theme=radical&show_icons=true&bg_color=161b22&custom_title=Reza%20Ageng%27s%20GitHub%20Stats" alt="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaageng&layout=compact&theme=radical&bg_color=161b22&hide_border=true" alt="">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rezaageng&layout=compact&theme=radical&bg_color=161b22&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaageng&layout=compact&theme=radical&bg_color=161b22&hide_border=true" alt="">
 </details>
