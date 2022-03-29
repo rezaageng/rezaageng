@@ -1,6 +1,6 @@
 <!-- Name Card -->
 
-![Reza Ageng's card name](<https://cardivo.vercel.app/api?name=Reza%20Ageng&description=generateCryogenicElement(formElement.sakuraShape)%20discharge()&image=https://avatars.githubusercontent.com/u/56060241?v=4&backgroundColor=%23161b22&fontColor=%23c9d1d9&pattern=topography&colorPattern=%2326292e&github=rezaageng&twitter=rezaageng_&instagram=rezaageng_&iconColor=%23c9d1d9>)
+![rezaa's card name](<https://cardivo.vercel.app/api?name=rezaa&description=generateCryogenicElement(formElement.sakuraShape)%20discharge()&image=https://avatars.githubusercontent.com/u/56060241?v=4&backgroundColor=%23161b22&fontColor=%23c9d1d9&pattern=topography&colorPattern=%2326292e&github=rezaageng&twitter=rezaageng_&instagram=rezaageng_&iconColor=%23c9d1d9>)
 
 <div align="center">
 <a href="mailto:rezaageng5@gmail.com" style="text-decoration: none;">
