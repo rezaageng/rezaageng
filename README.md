@@ -17,6 +17,10 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://wakatime.com/@15ded74d-a9f6-457a-af7a-8b35101e5a02"><img src="https://wakatime.com/badge/user/15ded74d-a9f6-457a-af7a-8b35101e5a02.svg?style=for-the-badge" alt="Total time coded since Mar 2 2022" /></a>
+</div>
+
 <details>
   <summary>Activity</summary>
   <img src="https://lanyard.cnrad.dev/api/465403883469012992" alt="">
