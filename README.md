@@ -1,34 +1,39 @@
-<!-- Name Card -->
+![her](./images/her.png)
 
-![rezaa's card name](<https://cardivo.vercel.app/api?name=rezaa&description=generateCryogenicElement(formElement.sakuraShape)%20discharge()&image=https://avatars.githubusercontent.com/u/56060241?v=4&backgroundColor=%23161b22&fontColor=%23c9d1d9&pattern=topography&colorPattern=%2326292e&github=rezaageng&twitter=rezaageng_&instagram=rezaageng_&iconColor=%23c9d1d9>)
+> <div align="center"><i>"one two three i cast a magic spell"</i><br>🌸🍁</div>
 
-<div align="center">
-<a href="mailto:rezaageng5@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a> 
-  <a href="https://twitter.com/rezaageng_" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/rezaageng_" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://steamcommunity.com/id/rezaageng/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/steam-%231b2838?&style=for-the-badge&logo=steam&logoColor=white"/>
-  </a>
-</div>
+### Development Tools
 
-<div align="center">
-  <a href="https://wakatime.com/@15ded74d-a9f6-457a-af7a-8b35101e5a02"><img src="https://wakatime.com/badge/user/15ded74d-a9f6-457a-af7a-8b35101e5a02.svg?style=for-the-badge" alt="Total time coded since Mar 2 2022" /></a>
-</div>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
-<details>
-  <summary>Activity</summary>
-  <img src="https://lanyard.cnrad.dev/api/465403883469012992" alt="">
-</details>
+### Programming and Markup Languages
 
-<details>
-  <summary>Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=rezaageng&hide_border=true&theme=radical&show_icons=true&bg_color=161b22&custom_title=Reza%20Ageng%27s%20GitHub%20Stats" alt="">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rezaageng&layout=compact&theme=radical&bg_color=161b22&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaageng&layout=compact&theme=radical&bg_color=161b22&hide_border=true" alt="">
-</details>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+### Frameworks, Platforms and Libraries
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Pnpm](https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord.js-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+
+### Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rezaageng&hide_border=true&theme=radical&show_icons=true&bg_color=161b22&custom_title=GitHub%20Stats)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=rezaageng&layout=compact&theme=radical&bg_color=161b22&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaageng&layout=compact&theme=radical&bg_color=161b22&hide_border=true)
