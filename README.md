@@ -1,4 +1,4 @@
-![her](./images/her.png)
+![her](./images/ano_yume.gif)
 
 > <div align="center"><i>"one two three i cast a magic spell"</i><br>🌸🍁</div>
 
