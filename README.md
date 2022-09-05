@@ -1,6 +1,17 @@
-![her](./images/ano_yume.gif)
+![her](./images/her.png)
 
 > <div align="center"><i>"one two three i cast a magic spell"</i><br>🌸🍁</div>
+
+<br>
+
+<details>
+<summary>あの夢をなぞって</summary>
+
+![that dream](./images/ano_yume.gif)
+
+</details>
+
+<br>
 
 ### Development Tools
 
