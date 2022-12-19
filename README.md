@@ -44,6 +44,11 @@
 ![Discord](https://img.shields.io/badge/Discord.js-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 
+### Testing
+
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+
 ### Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rezaageng&hide_border=true&theme=radical&show_icons=true&bg_color=161b22&custom_title=GitHub%20Stats)
