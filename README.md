@@ -1,4 +1,4 @@
-![her](./images/her.png)
+![her](./images/miss.png)
 
 > <div align="center"><i>"one two three i cast a magic spell"</i><br>🌸🍁</div>
 
@@ -52,5 +52,5 @@
 ### Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rezaageng&hide_border=true&theme=radical&show_icons=true&bg_color=161b22&custom_title=GitHub%20Stats)
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=rezaageng&layout=compact&theme=radical&bg_color=161b22&hide_border=true)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=rezaageng&layout=compact&theme=radical&bg_color=161b22&hide_border=true&range=last_7_days)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaageng&layout=compact&theme=radical&bg_color=161b22&hide_border=true)
