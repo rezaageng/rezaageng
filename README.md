@@ -1,8 +1,8 @@
+<div align="center">
+
 ![her](./images/miss.png)
 
 > <div align="center"><i>"one two three i cast a magic spell"</i><br>🌸🍁</div>
-
-<div align="center">
 
 <details>
 <summary>あの夢をなぞって</summary>
